@@ -1,0 +1,1 @@
+# vue-msal-app
